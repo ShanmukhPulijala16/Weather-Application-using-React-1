@@ -38,27 +38,9 @@ To run the application in development mode:
 npm run dev
 # or
 yarn dev
-This will start the development server. Open http://localhost:3000 in your browser to view the app.
+This will start the development server. Open http://localhost:5173 in your browser to view the app.
 
-Building for Production
-To build the application for production:
-
-npm run build
-# or
-yarn build
-Linting
-To lint the code:
-
-npm run lint
-# or
-yarn lint
-Preview Built Application
-To preview the production build locally:
-
-npm run preview
-# or
-yarn preview
-Approach and Technologies Used
+## Approach and Technologies Used - HTML, CSS, JavaScript and React
 The weather app is built using React with Vite as the build tool. Key dependencies include:
 
 dotenv: For environment variable management.
