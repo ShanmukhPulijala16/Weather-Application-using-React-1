@@ -23,7 +23,7 @@ This project is a weather application built with React and Vite.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ShanmukhPulijala16/Weather-Application-using-React-1.git
 Navigate to the project directory:
 
 cd weather-app
