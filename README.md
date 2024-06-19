@@ -1,3 +1,9 @@
+Weather-Application-using-React
+
+Hosted Link - https://shanmukhpulijala16.github.io/Weather-Application-using-React-1
+
+GitHub Link - https://github.com/ShanmukhPulijala16/Weather-Application-using-React-1
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
